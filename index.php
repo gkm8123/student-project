@@ -1,0 +1,1 @@
+<!-- Home page: Display all products -->
